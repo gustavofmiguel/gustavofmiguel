@@ -1,7 +1,7 @@
 ## Oii! eu sou o Gustavo Miguel 👋
 
 
-- 🌱 I’m currently learning Flutter, C#, HTML, CSS
+- 🌱 I’m currently learning Flutter, C#, HTML, CSS, JavaScript
 - 💬 Ask me about C#, HTML, CSS
 ##
  <div style="display: inline_block"><br>
