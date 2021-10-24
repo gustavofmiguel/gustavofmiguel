@@ -2,8 +2,9 @@
 
 <!--
 
-- 🌱 I’m currently learning Flutter, C#
-- 💬 Ask me about c#
+- 🌱 I’m currently learning Flutter, C#, HTML, CSS
+- 💬 Ask me about C#,HTML, CSS
+
 -->
 <div>
   <a href="https://github.com/gustavofmiguel">
@@ -16,10 +17,12 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     
 ##
+    
 <div>
   <a href="https://www.instagram.com/_guuz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/guuz_19" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:gustavomiguel012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-miguel-46456a1b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
+
+    
