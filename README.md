@@ -24,6 +24,7 @@
   <a href = "mailto:gustavomiguel012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -
   <a href="https://www.linkedin.com/in/gustavo-miguel-46456a1b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -
     <a href="https://steamcommunity.com/profiles/76561198424430264/"target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"target="_blank">
+    <a href="https://open.spotify.com/user/gustavomiguel012?si=56b35bec7b2a4a6c"target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank">
      <hr>
      <img align="right" alt="pic pikachu gif" height="250" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/879870124813856819/901702789078593546/579af2d8df43ca612e38b09a103bcde82b7d92aa_hq.gif">
 </div>
