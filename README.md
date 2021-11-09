@@ -1,8 +1,10 @@
 ## Oii! eu sou o Gustavo Miguel 👋
 
+- 🎂 21 Years
+- 🌍 I live in Mogi Guaçu - São Paulo - SP in Brazil
+- 📚 I’m currently learning  C#, HTML, CSS, JavaScript, Flutter
 
-- 🌱 I’m currently learning Flutter, C#, HTML, CSS, JavaScript
-- 💬 Ask me about C#, HTML, CSS
+
 ##
  <div style="display: inline_block"><br>
  My Skills 🧠 <br> <br>
