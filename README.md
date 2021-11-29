@@ -2,8 +2,6 @@
 
 - 🎂 21 Years
 - 🌍 I live in Mogi Guaçu - São Paulo - SP in Brazil
-- 📚 I’m currently learning  C#, HTML, CSS, JavaScript
-
 
 ##
  <div style="display: inline_block"><br>
