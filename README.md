@@ -1,7 +1,7 @@
-## Oii! eu sou Gustavo Miguel 👋
+## Hello World I'm Gustavo Miguel 🌎
 
-- 🎂 21 Years
-- 🌍 I live in Mogi Guaçu - São Paulo - SP in Brazil
+- 🎉 21 Years old
+- 📌 I live in Mogi Guaçu - São Paulo in Brazil
 
 ##
  <div style="display: inline_block"><br>
@@ -15,6 +15,7 @@
  <img align="center" alt="VisualStudioCode" height="40" width="40" src="https://cdn.discordapp.com/attachments/879870124813856819/901731942247071824/Visual_Studio_Icon_2019.svg.png"> -
   <img align="center" alt="Photoshop" height="40" width="40" src="https://cdn.discordapp.com/attachments/879870124813856819/901714364699140147/adobe-photoshop_1.png"> -
   <img align="center" alt="Premiere" height="40" width="40" src="https://cdn.discordapp.com/attachments/879870124813856819/901714689816408134/pre-estreia.png">
+
 
  
  <hr>
@@ -31,8 +32,8 @@
  
 </div>
   <a href="https://github.com/gustavofmiguel">
-  <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=gustavofmiguel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofmiguel&layout=compact&langs_count=7&theme=dark"/>
+  <img height="165em"  src="https://github-readme-stats.vercel.app/api?username=gustavofmiguel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="165em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofmiguel&layout=compact&langs_count=7&theme=dark"/>
    <img align="right" alt="pic pikachu gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/879870124813856819/901702789078593546/579af2d8df43ca612e38b09a103bcde82b7d92aa_hq.gif">
    
 </div>
