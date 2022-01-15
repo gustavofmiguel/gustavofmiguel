@@ -1,7 +1,7 @@
-## Hello World I'm Gustavo Miguel 🌎
+## Hello World, I'm Gustavo Miguel 🌎👋
 
-- 🎉 21 Years
-- 📌 I live in Mogi Guaçu - São Paulo in Brazil
+- 🎂 21 Years
+- 🗺️ I live in Mogi Guaçu - São Paulo - 🇧🇷
 
 ##
  <div style="display: inline_block"><br>
