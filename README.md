@@ -8,8 +8,7 @@
  🚀 Languages and Tools: <br> <br>
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -
- <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.discordapp.com/attachments/879870124813856819/901961530839531580/javascript-map-javascript-javascript-icon-with-png-892806.png"> -
-  <img align="center" alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> - 
+ <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.discordapp.com/attachments/879870124813856819/901961530839531580/javascript-map-javascript-javascript-icon-with-png-892806.png"> -   
  <img align="center" alt="mysql" height="40" width="40" src="https://cdn.discordapp.com/attachments/879870124813856819/919721912307957790/MySQL-logo.png"> -
   <img align="center" alt="VisualStudio" height="40" width="40" src="https://cdn.discordapp.com/attachments/879870124813856819/901731917131575346/1200px-Visual_Studio_Code_1.18_icon.svg.png"> -
  <img align="center" alt="VisualStudioCode" height="40" width="40" src="https://cdn.discordapp.com/attachments/879870124813856819/901731942247071824/Visual_Studio_Icon_2019.svg.png"> -
