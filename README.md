@@ -1,8 +1,8 @@
 ## Hello, I'm Gustavo Miguel 👋
 
-- 🎂 22 Anos
-- 🌎 Mogi Guaçu - São Paulo - 🇧🇷
-- 💜 Obrigado pela visita
+-  22 Anos
+-  Mogi Guaçu - São Paulo - 🇧🇷
+
 ##
  <div style="display: inline_block"><br>
  🚀 Languages and Tools: <br> <br>
