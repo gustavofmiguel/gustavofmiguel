@@ -19,13 +19,13 @@
     <td align="center" width="33%">
       <strong>🌐 Front-end</strong><br><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,react&perline=3" width="150" />
+        <img src="https://skillicons.dev/icons?i=html,css,javascript&perline=3" width="150" />
       </a>
     </td>
     <td align="center" width="33%">
       <strong>🛠️ Outros </strong><br><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=docker,mysql,git,github,idea&perline=3" width="150" />
+        <img src="https://skillicons.dev/icons?i=docker,mysql,git,github,idea,linux&perline=3" width="150" />
       </a>
     </td>
   </tr>
