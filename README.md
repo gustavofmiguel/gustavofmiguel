@@ -1,5 +1,5 @@
 
-<h1>👋 Olá, eu sou o Gustavo</h1>
+<h1> Olá, eu sou o Gustavo</h1>
 
 ## 👤 Sobre mim
 
