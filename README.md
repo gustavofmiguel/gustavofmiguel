@@ -1,6 +1,4 @@
 
-<h1> Olá, eu sou o Gustavo</h1>
-
 ## 👤 Sobre mim
 
 - Cursando **Análise e Desenvolvimento de Sistemas** na [Faculdade Estácio](https://estacio.br/)
